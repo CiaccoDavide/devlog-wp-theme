@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prana 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-18 18:05+0500\n"
+"PO-Revision-Date: 2013-05-27 19:18+0200\n"
+"Last-Translator: DesignOrbital <designorbital@live.com>\n"
+"Language-Team: DesignOrbital <designorbital@live.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr\n"
+"X-Poedit-Basepath: E:\\prana\\\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+#, php-format
+msgid ""
+"Just kidding! You tried going to %s, which doesn't exist, so that means I "
+"probably broke something."
+msgstr "Запрашиваемая страница %s, Не существует, воспользуйтесь поиском."
+
+#: 404.php:16
+msgid ""
+"The following is a list of the latest posts from the blog. Maybe it will "
+"help you find what you're looking for."
+msgstr ""
+"Ниже приведен список последних сообщений из блога. Может быть, это поможет "
+"вам найти то, что вы ищете."
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
+
+#: comments.php:32
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+#: content-search.php:4 content.php:3
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: loop-error.php:2
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: loop-error.php:4
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Приносим извинения, но запрашиваемая информация не найдена. Советуем "
+"повторить поиск или начать поиск с главной страницы сайта"
+
+#: loop-meta.php:6
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Категория: %s"
+
+#: loop-meta.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Метки: %s"
+
+#: loop-meta.php:31
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архив Автора: %s"
+
+#: loop-meta.php:42
+#, php-format
+msgid "Search Results: %s"
+msgstr "Результаты Поиска: %s"
+
+#: loop-meta.php:43
+#, php-format
+msgid "You are browsing the search results for %s"
+msgstr "Вы просматриваете результаты поиска для %s"
+
+#: loop-meta.php:53
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Авхив за День: %s"
+
+#: loop-meta.php:54
+msgid "You are browsing the site archives by date."
+msgstr "Вы просматриваете архив сайта по дате."
+
+#: loop-meta.php:64
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив за месяц: %s"
+
+#: loop-meta.php:65
+msgid "You are browsing the site archives by month."
+msgstr "Вы просматриваете архив сайта по месяцам."
+
+#: loop-meta.php:75
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Авхив за год: %s"
+
+#: loop-meta.php:76
+msgid "You are browsing the site archives by year."
+msgstr "Вы просматриваете архив сайта за год."
+
+#: loop-meta.php:86 sidebar.php:31
+msgid "Archives"
+msgstr "Архив"
+
+#: loop-meta.php:87
+msgid "You are browsing the site archives."
+msgstr "Вы просматриваете архив сайта."
+
+#: loop-meta.php:97
+msgid "404"
+msgstr "404"
+
+#: loop-meta.php:98
+msgid "Whoah! You broke something!"
+msgstr "Ничего себе! Вы что-то сломали!"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: searchform.php:4 searchform.php:5
+msgid "Search"
+msgstr "Поиск"
+
+#: sidebar.php:17
+msgid "Pages"
+msgstr "Страницы"
+
+#: sidebar.php:24
+msgid "Categories"
+msgstr "Категории"
+
+#: sidebar.php:38
+msgid "Calendar"
+msgstr "Календарь"
+
+#: sidebar.php:45
+msgid "Recent Posts"
+msgstr "Последнии записи"
+
+#: sidebar.php:52
+msgid "Tag Cloud"
+msgstr "Метки"
+
+#: sidebar.php:59
+msgid "About Prana"
+msgstr "О сайте"
+
+#: sidebar.php:60
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: sidebar.php:66
+msgid "Meta"
+msgstr "Вход"
+
+#: lib/admin/admin.php:52 lib/admin/admin.php:53
+msgid "Prana Options"
+msgstr "Опции сайта"
+
+#: lib/admin/admin.php:103
+msgid "Theme Support"
+msgstr "Поддержка Темы"
+
+#: lib/admin/admin.php:113
+msgid "License"
+msgstr "Лицензия"
+
+#: lib/admin/admin.php:123
+msgid "Changelog"
+msgstr "Изменения"
+
+#: lib/admin/admin.php:130
+msgid "For more information:"
+msgstr "Для получения дополнительной информации"
+
+#: lib/admin/admin.php:132
+msgid "Prana Project"
+msgstr "Прана проект"
+
+#: lib/admin/admin.php:135
+msgid "Prana Official Page"
+msgstr "Прана Официальная страница"
+
+#: lib/admin/admin.php:164
+msgid "Navigation Style"
+msgstr "Стиль навигации"
+
+#: lib/admin/admin.php:165
+msgid "Menu Position"
+msgstr "Положение меню"
+
+#: lib/admin/admin.php:166
+msgid "Menu Width"
+msgstr "Ширина меню"
+
+#: lib/admin/admin.php:171
+msgid "Post Style"
+msgstr "Стиль записи"
+
+#: lib/admin/admin.php:172
+msgid "Post Featured Image"
+msgstr "Избранные изображения записи"
+
+#: lib/admin/admin.php:177
+msgid "Use Copyright"
+msgstr "Используйте Авторское право"
+
+#: lib/admin/admin.php:178
+msgid "Enter Copyright Text"
+msgstr "Введите текст об авторских правах"
+
+#: lib/admin/admin.php:183
+msgid "Reset Theme Options"
+msgstr "Сброс настроек темы"
+
+#: lib/admin/admin.php:235
+msgid "yes"
+msgstr "да"
+
+#: lib/admin/admin.php:235
+msgid "no"
+msgstr "нет"
+
+#: lib/admin/admin.php:240
+msgid "Numeric"
+msgstr "число"
+
+#: lib/admin/admin.php:240
+msgid "Older / Newer"
+msgstr "Старые / Новые"
+
+#: lib/admin/admin.php:245
+msgid "Default (Left)"
+msgstr "По умолчанию (лево)"
+
+#: lib/admin/admin.php:245
+msgid "Center"
+msgstr "Центр"
+
+#: lib/admin/admin.php:250
+msgid "Content"
+msgstr "Контент"
+
+#: lib/admin/admin.php:250
+msgid "Excerpt"
+msgstr "Выдержка"
+
+#: lib/admin/admin.php:255
+msgid "Use Featured Image"
+msgstr "Используйте Выбранные изображения"
+
+#: lib/admin/admin.php:255
+msgid "Use Featured Image Automatically"
+msgstr "Используйте Выбранное изображение автоматически"
+
+#: lib/admin/admin.php:255
+msgid "No Featured Image"
+msgstr "Нет Выбранных изображения"
+
+#: lib/admin/admin.php:310
+msgid "Settings Saved."
+msgstr "Сохранить настройки"
+
+#: lib/admin/admin.php:319
+msgid "Customize your blog by using the following settings."
+msgstr "Настроить свой блог, используя следующие настройки."
+
+#: lib/admin/admin.php:336
+msgid "Select navigation style."
+msgstr "Выберите стиль навигации."
+
+#: lib/admin/admin.php:353
+msgid ""
+"<strong>Center:</strong> You must specify the <em>Menu Width</em> according "
+"to your menu items in order to center it perfectly."
+msgstr ""
+"<strong>По центру:</strong> Вы должны указать <em>Ширину Меню</em> в "
+"соответствии с вашими пунктами меню."
+
+#: lib/admin/admin.php:362
+msgid "Enter the menu width to center it perfectly."
+msgstr "Войдите в меню"
+
+#: lib/admin/admin.php:363
+msgid "<strong>Valid Range:</strong> 1 - 940"
+msgstr "<strong>Допустимые значения:</strong> 1 - 940"
+
+#: lib/admin/admin.php:370
+msgid "Customize your posts by using the following settings."
+msgstr "Настроить свои сообщения, используя следующие настройки."
+
+#: lib/admin/admin.php:387
+msgid "Select post style."
+msgstr "Выберите стиль сообщения."
+
+#: lib/admin/admin.php:404
+msgid "<strong>Use Featured Image:</strong> which is set in the post."
+msgstr ""
+"<strong>Используйте выбранное изображение:</strong>которое будет в записи."
+
+#: lib/admin/admin.php:405
+msgid ""
+"<strong>Use Featured Image Automatically:</strong> from the images uploaded "
+"to the post."
+msgstr ""
+"<strong>Используйте Выбранное изображение автоматически</strong> из "
+"изображений, загруженных в эту запись."
+
+#: lib/admin/admin.php:406
+msgid "<strong>No Featured Image:</strong> for the post."
+msgstr "<strong>Нет Выбранных изображения</strong> в записи."
+
+#: lib/admin/admin.php:413
+msgid "Customize your footer by using the following settings."
+msgstr "Настройте свой подвал сайта с помощью следующих параметров."
+
+#: lib/admin/admin.php:430
+msgid "Select yes to override default copyright text."
+msgstr "Нажмите да, что бы сделать свой копирайт."
+
+#: lib/admin/admin.php:439
+msgid "Enter the copyright text."
+msgstr "Введите свой текст копирайта."
+
+#: lib/admin/admin.php:447
+msgid "Here are the general settings to customize your blog."
+msgstr "Вот общие параметры, чтобы настроить ваш блог."
+
+#: lib/admin/admin.php:456
+msgid "Reset Theme Options."
+msgstr "Сброс настроек темы."
+
+#: lib/admin/page.php:9
+#, php-format
+msgid "%1$s Theme Settings"
+msgstr "%1$s Настройки темы"
+
+#: lib/admin/page.php:16 lib/admin/page.php:55
+msgid "Save Changes"
+msgstr "Сохранить изминения"
+
+#: lib/admin/page.php:24
+msgid "Blog Settings"
+msgstr "Настройки блога"
+
+#: lib/admin/page.php:25
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: lib/admin/page.php:26
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: lib/admin/page.php:27
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: lib/functions/custom-header.php:25
+msgid "Prana"
+msgstr "Прана"
+
+#: lib/functions/menus.php:9
+msgid "Prana Primary Menu"
+msgstr "Прана Первичное меню"
+
+#: lib/functions/sidebars.php:40
+msgid "Prana Primary Sidebar"
+msgstr "Прана Первичная боковая панель"
+
+#: lib/functions/sidebars.php:42
+msgid "The main (primary) widget area, most often used as a sidebar."
+msgstr ""
+"Основной (первичный) виджета области, наиболее часто используется в качестве "
+"боковой панели."
+
+#: lib/functions/utility.php:16
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: lib/functions/utility.php:37
+#, php-format
+msgid "by %2$s"
+msgstr "Опубликовал: %2$s"
+
+#: lib/functions/utility.php:48 lib/functions/utility.php:50
+#: lib/functions/utility.php:347 lib/functions/utility.php:376
+msgid "Edit"
+msgstr "Редактировать"
+
+#: lib/functions/utility.php:66
+msgid "Leave a Comment"
+msgstr "Оставить комментарий"
+
+#: lib/functions/utility.php:66
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: lib/functions/utility.php:66
+msgid "% Comments"
+msgstr "% Комментариев"
+
+#: lib/functions/utility.php:83
+msgid "Posted in:"
+msgstr "Категория:"
+
+#: lib/functions/utility.php:95
+msgid "Tagged:"
+msgstr "Теги:"
+
+#: lib/functions/utility.php:107
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: lib/functions/utility.php:185 lib/functions/utility.php:208
+#: lib/functions/utility.php:235 lib/functions/utility.php:251
+msgid "Post Navigation"
+msgstr "Навигация по записям"
+
+#: lib/functions/utility.php:196
+msgid "Older Posts"
+msgstr "Старые записи"
+
+#: lib/functions/utility.php:200
+msgid "Newer Posts"
+msgstr "Новые записи"
+
+#: lib/functions/utility.php:223
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: lib/functions/utility.php:227
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: lib/functions/utility.php:252
+msgid "&larr; Return to"
+msgstr "&larr; Вернуться на"
+
+#: lib/functions/utility.php:273
+msgid "Attachment Navigation"
+msgstr "Навигация по вложениям"
+
+#: lib/functions/utility.php:297
+#, php-format
+msgid "About %s"
+msgstr "об %s"
+
+#: lib/functions/utility.php:300
+#, php-format
+msgid "View all posts by %s"
+msgstr "Просмотр всех публикаций %s"
+
+#: lib/functions/utility.php:333
+#, php-format
+msgid "%s Theme by"
+msgstr "%s Тема от"
+
+#: lib/functions/utility.php:347
+msgid "Pingback:"
+msgstr "Пингбэк"
+
+#: lib/functions/utility.php:372
+msgid "said:"
+msgstr "написал:"
+
+#: lib/functions/utility.php:381
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: lib/functions/utility.php:391
+msgid "Reply"
+msgstr "Ответ"
+
+#: lib/functions/utility.php:496 lib/functions/utility.php:501
+msgid "Continue Reading &rarr;"
+msgstr "<br>Читать далее &rarr;"
