@@ -211,7 +211,7 @@ th {
 --------------------------------------------------------------*/
 h1, h2, h3, h4, h5, h6 {
   clear: both;
-  color: #24292e;
+  color: #ccc;
   font-weight: 600;
   margin-top: 24px;
   margin-bottom: 15px;
@@ -317,7 +317,7 @@ header#masthead {
 body:not(.theme-preset-active) #page-sub-header h1 {
   line-height: 1.6;
   font-size: 4rem;
-  color: #563e7c;
+  color: #069efc;
   margin: 0 0 1rem;
   border: 0;
   padding: 0;
@@ -330,7 +330,7 @@ body:not(.theme-preset-active) #page-sub-header h1 {
   font-weight: 300;
 }
 body:not(.theme-preset-active) #page-sub-header p {
-color: #212529;
+color: #ccc;
 }
 a.page-scroller {
   color: #333;
@@ -516,11 +516,11 @@ body:not(.theme-preset-active) #masthead .navbar-nav > li.current_page_item > a 
   /* Many screen reader and browser combinations announce broken words as they would appear visually. */
 }
 .screen-reader-text:focus {
-  background-color: #f1f1f1;
+  background-color: #21759b;
   border-radius: 3px;
   box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
   clip: auto !important;
-  color: #21759b;
+  color: #f1f1f1;
   display: block;
   font-size: 14px;
   font-size: 0.875rem;
@@ -642,7 +642,7 @@ a img.aligncenter {
 
 .nav > li > a:focus,
 .nav > li > a:hover {
-  background-color: #eee;
+  background-color: #111;
   text-decoration: none;
 }
 .half-rule {
@@ -781,8 +781,8 @@ object {
 ## Captions
 --------------------------------------------------------------*/
 .wp-caption {
-  background: #f1f1f1 none repeat scroll 0 0;
-  border: 1px solid #f0f0f0;
+  background: #111 none repeat scroll 0 0;
+  border: 1px solid #232323;
   max-width: 96%;
   padding: 0.313rem 0.313rem 0;
   text-align: center;
@@ -906,8 +906,8 @@ footer#colophon {
   font-size: 85%;
 }
 body:not(.theme-preset-active) footer#colophon {
-  color: #99979c;
-  background-color: #f7f7f7;
+  color: #f7f7f7;
+  background-color: #99979c;
 }
 
 .copyright {
