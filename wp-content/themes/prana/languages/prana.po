@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prana 1.2.5.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-09 22:46+0500\n"
+"PO-Revision-Date: 2014-06-09 22:46+0500\n"
+"Last-Translator: DesignOrbital <designorbital@live.com>\n"
+"Language-Team: DesignOrbital <designorbital@live.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wporg/wp-content/themes/prana/\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+#, php-format
+msgid ""
+"Just kidding! You tried going to %s, which doesn't exist, so that means I "
+"probably broke something."
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"The following is a list of the latest posts from the blog. Maybe it will "
+"help you find what you're looking for."
+msgstr ""
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:32
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:3 content-chat.php:3 content-gallery.php:3
+#: content-image.php:3 content-search.php:4 content-video.php:3 content.php:3
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: lib/admin/admin.php:52 lib/admin/admin.php:53
+msgid "Prana Options"
+msgstr ""
+
+#: lib/admin/admin.php:100
+msgid "Theme Support"
+msgstr ""
+
+#: lib/admin/admin.php:110
+msgid "License"
+msgstr ""
+
+#: lib/admin/admin.php:120
+msgid "Changelog"
+msgstr ""
+
+#: lib/admin/admin.php:127
+msgid "For more information:"
+msgstr ""
+
+#: lib/admin/admin.php:129
+msgid "Prana Project"
+msgstr ""
+
+#: lib/admin/admin.php:132
+msgid "Prana Official Page"
+msgstr ""
+
+#: lib/admin/admin.php:161
+msgid "Navigation Style"
+msgstr ""
+
+#: lib/admin/admin.php:166
+msgid "Post Style"
+msgstr ""
+
+#: lib/admin/admin.php:167
+msgid "Post Featured Image"
+msgstr ""
+
+#: lib/admin/admin.php:172
+msgid "Use Copyright"
+msgstr ""
+
+#: lib/admin/admin.php:173
+msgid "Enter Copyright Text"
+msgstr ""
+
+#: lib/admin/admin.php:178
+msgid "Reset Theme Options"
+msgstr ""
+
+#: lib/admin/admin.php:186
+msgid "yes"
+msgstr ""
+
+#: lib/admin/admin.php:186
+msgid "no"
+msgstr ""
+
+#: lib/admin/admin.php:191
+msgid "Numeric"
+msgstr ""
+
+#: lib/admin/admin.php:191
+msgid "Older / Newer"
+msgstr ""
+
+#: lib/admin/admin.php:196
+msgid "Content"
+msgstr ""
+
+#: lib/admin/admin.php:196
+msgid "Excerpt"
+msgstr ""
+
+#: lib/admin/admin.php:201
+msgid "Use Featured Image"
+msgstr ""
+
+#: lib/admin/admin.php:201
+msgid "Use Featured Image Automatically"
+msgstr ""
+
+#: lib/admin/admin.php:201
+msgid "No Featured Image"
+msgstr ""
+
+#: lib/admin/admin.php:262
+msgid "Customize your blog by using the following settings."
+msgstr ""
+
+#: lib/admin/admin.php:279
+msgid "Select navigation style."
+msgstr ""
+
+#: lib/admin/admin.php:286
+msgid "Customize your posts by using the following settings."
+msgstr ""
+
+#: lib/admin/admin.php:303
+msgid "Select post style."
+msgstr ""
+
+#: lib/admin/admin.php:320
+msgid "<strong>Use Featured Image:</strong> which is set in the post."
+msgstr ""
+
+#: lib/admin/admin.php:321
+msgid ""
+"<strong>Use Featured Image Automatically:</strong> from the images uploaded "
+"to the post."
+msgstr ""
+
+#: lib/admin/admin.php:322
+msgid "<strong>No Featured Image:</strong> for the post."
+msgstr ""
+
+#: lib/admin/admin.php:329
+msgid "Customize your footer by using the following settings."
+msgstr ""
+
+#: lib/admin/admin.php:346
+msgid "Select yes to override default copyright text."
+msgstr ""
+
+#: lib/admin/admin.php:355
+msgid "Enter the copyright text."
+msgstr ""
+
+#: lib/admin/admin.php:363
+msgid "Here are the general settings to customize your blog."
+msgstr ""
+
+#: lib/admin/admin.php:372
+msgid "Reset Theme Options."
+msgstr ""
+
+#: lib/admin/page.php:9
+#, php-format
+msgid "%1$s Theme Settings"
+msgstr ""
+
+#: lib/admin/page.php:14
+msgid "Prana Pro Features"
+msgstr ""
+
+#: lib/admin/page.php:15
+msgid "Our Free Themes"
+msgstr ""
+
+#: lib/admin/page.php:16
+msgid "Like Us On Facebook"
+msgstr ""
+
+#: lib/admin/page.php:17
+msgid "Follow On Twitter"
+msgstr ""
+
+#: lib/admin/page.php:23 lib/admin/page.php:62
+msgid "Save Changes"
+msgstr ""
+
+#: lib/admin/page.php:31
+msgid "Blog Settings"
+msgstr ""
+
+#: lib/admin/page.php:32
+msgid "Post Settings"
+msgstr ""
+
+#: lib/admin/page.php:33
+msgid "Footer Settings"
+msgstr ""
+
+#: lib/admin/page.php:34
+msgid "General Settings"
+msgstr ""
+
+#: lib/functions/custom-header.php:25
+msgid "Prana"
+msgstr ""
+
+#: lib/functions/menus.php:9
+msgid "Prana Primary Menu"
+msgstr ""
+
+#: lib/functions/sidebars.php:40
+msgid "Prana Primary Sidebar"
+msgstr ""
+
+#: lib/functions/sidebars.php:42
+msgid "The main (primary) widget area, most often used as a sidebar."
+msgstr ""
+
+#: lib/functions/utility.php:16
+msgid "Featured"
+msgstr ""
+
+#: lib/functions/utility.php:45
+msgid "by"
+msgstr ""
+
+#: lib/functions/utility.php:56 lib/functions/utility.php:58
+#: lib/functions/utility.php:355 lib/functions/utility.php:384
+msgid "Edit"
+msgstr ""
+
+#: lib/functions/utility.php:74
+msgid "Leave a Comment"
+msgstr ""
+
+#: lib/functions/utility.php:74
+msgid "1 Comment"
+msgstr ""
+
+#: lib/functions/utility.php:74
+msgid "% Comments"
+msgstr ""
+
+#: lib/functions/utility.php:91
+msgid "Posted in:"
+msgstr ""
+
+#: lib/functions/utility.php:103
+msgid "Tagged:"
+msgstr ""
+
+#: lib/functions/utility.php:115
+msgid "Pages:"
+msgstr ""
+
+#: lib/functions/utility.php:193 lib/functions/utility.php:216
+#: lib/functions/utility.php:243 lib/functions/utility.php:259
+msgid "Post Navigation"
+msgstr ""
+
+#: lib/functions/utility.php:204
+msgid "Older Posts"
+msgstr ""
+
+#: lib/functions/utility.php:208
+msgid "Newer Posts"
+msgstr ""
+
+#: lib/functions/utility.php:231
+msgid "Previous Post"
+msgstr ""
+
+#: lib/functions/utility.php:235
+msgid "Next Post"
+msgstr ""
+
+#: lib/functions/utility.php:260
+msgid "&larr; Return to"
+msgstr ""
+
+#: lib/functions/utility.php:281
+msgid "Attachment Navigation"
+msgstr ""
+
+#: lib/functions/utility.php:305
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: lib/functions/utility.php:308
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: lib/functions/utility.php:341
+msgid "Powered by"
+msgstr ""
+
+#: lib/functions/utility.php:355
+msgid "Pingback:"
+msgstr ""
+
+#: lib/functions/utility.php:380
+msgid "said:"
+msgstr ""
+
+#: lib/functions/utility.php:389
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/functions/utility.php:399
+msgid "Reply"
+msgstr ""
+
+#: lib/functions/utility.php:514 lib/functions/utility.php:519
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: loop-error.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: loop-error.php:4
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: loop-meta.php:6
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: loop-meta.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: loop-meta.php:31
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: loop-meta.php:42
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+#: loop-meta.php:43
+#, php-format
+msgid "You are browsing the search results for %s"
+msgstr ""
+
+#: loop-meta.php:53
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: loop-meta.php:54
+msgid "You are browsing the site archives by date."
+msgstr ""
+
+#: loop-meta.php:64
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: loop-meta.php:65
+msgid "You are browsing the site archives by month."
+msgstr ""
+
+#: loop-meta.php:75
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: loop-meta.php:76
+msgid "You are browsing the site archives by year."
+msgstr ""
+
+#: loop-meta.php:86 sidebar.php:31
+msgid "Archives"
+msgstr ""
+
+#: loop-meta.php:87
+msgid "You are browsing the site archives."
+msgstr ""
+
+#: loop-meta.php:97
+msgid "404"
+msgstr ""
+
+#: loop-meta.php:98
+msgid "Whoah! You broke something!"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Pages"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:38
+msgid "Calendar"
+msgstr ""
+
+#: sidebar.php:45
+msgid "Recent Posts"
+msgstr ""
+
+#: sidebar.php:52
+msgid "Tag Cloud"
+msgstr ""
+
+#: sidebar.php:59
+msgid "About Prana"
+msgstr ""
+
+#: sidebar.php:60
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: sidebar.php:66
+msgid "Meta"
+msgstr ""

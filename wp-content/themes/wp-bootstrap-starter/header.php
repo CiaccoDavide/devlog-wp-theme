@@ -33,7 +33,9 @@
                             <img src="<?php echo esc_attr(get_theme_mod( 'wp_bootstrap_starter_logo' )); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) ); ?>">
                         </a>
                     <?php else : ?>
-                        <a class="site-title" href="<?php echo esc_url( home_url( '/' )); ?>"><?php esc_url(bloginfo('name')); ?></a>
+                        <a class="site-title" href="<?php echo esc_url( home_url( '/' )); ?>">
+                            <span class="shell" style="font-weight: 400;"><span class="user">ciaccodavide</span>@<span class="doamin">devlog</span>:<?php echo esc_attr(add_query_arg( NULL, NULL )); ?>#<span class="blinking">▮</span></span>
+                        </a>
                     <?php endif; ?>
 
                 </div>
